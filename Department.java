@@ -1,4 +1,3 @@
-package Abstraction;
 
 abstract class Department {
     int size = 100;

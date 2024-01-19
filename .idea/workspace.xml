@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c36ea40-5ce3-4bc1-ac14-7e9d22edda9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/MiniMaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Aggregation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Deptsize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Maximum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Minimum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/Static/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/constructor/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Abstraction/constructor/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/Student.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstraction/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +38,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstraction.Abstraction.Account.executor": "Run",
     "Application.Account.executor": "Run",
     "Application.AgeGroup.executor": "Run",
+    "Application.Aggregation (1).executor": "Run",
+    "Application.Aggregation.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MinMax.executor": "Run",
     "Application.MiniMaxNumber.executor": "Run",
     "Application.Pattern.executor": "Run",
+    "Application.Product.executor": "Run",
     "Application.Son.executor": "Run",
+    "Application.Static.Account.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.minMaxNumber.executor": "Run",
     "Application.miniMaxNumber.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,13 +63,18 @@
     "last_opened_file_path": "/Users/gouthamnalla/Desktop/java/CoreJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Son">
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.LoopAndCondition.FizzBuzz" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Static.Account" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.LoopAndCondition.*" />
+          <option name="PATTERN" value="Abstraction.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniMaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.Array.MiniMaxNumber" />
+    <configuration name="Aggregation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Aggregation" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.Array.*" />
+          <option name="PATTERN" value="Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.LoopAndCondition.Pattern" />
+    <configuration name="Aggregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Aggregation" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.LoopAndCondition.*" />
+          <option name="PATTERN" value="Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.keyfinal.Main" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.keyfinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,10 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Son" />
-        <item itemvalue="Application.MiniMaxNumber" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Aggregation (1)" />
+        <item itemvalue="Application.Aggregation" />
       </list>
     </recent_temporary>
   </component>

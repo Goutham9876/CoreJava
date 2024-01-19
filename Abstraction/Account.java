@@ -1,4 +1,4 @@
-package Abstraction.Static;
+package Abstraction;
 
 public class Account {
     static int accountNumber = 12233;
